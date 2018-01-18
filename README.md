@@ -7,4 +7,6 @@ This repository contains a few of my past works:
 
 --Level1 is part of another Unity game I created at my time with YouMatter Studios. This level was the tutorial level but I contributed to aspects like the swing and enemy patrol.
 
+--I also contributed to another Unity game titled Gardenlight with a team at CMU. It is visible at the following repository: https://github.com/lightgarden/Gardenlight 
+
 Thank you for viewing.
