@@ -7,4 +7,6 @@ This repository contains a few of my past works:
 
 --I also contributed to another Unity game titled Gardenlight with a team at CMU. It is visible at the following repository: https://github.com/lightgarden/Gardenlight 
 
+--In addition to the previously stated projects, I have also worked on a Unity video game project (not yet released) that is a 2D Platformer produced by YouMatter Studios. More information is available here: http://www.youmatterstudios.com/
+
 Thank you for viewing.
